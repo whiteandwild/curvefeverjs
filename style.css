@@ -1,0 +1,46 @@
+body {
+    
+    text-align:center;
+    background-color: darkslategray;
+    
+    display: block;
+    }
+.curve_fever_canvas{
+   
+    text-align:center;
+    margin-left: 10%;
+
+    
+}
+#defaultCanvas0{
+    
+    border-color:white;
+    border-style:double;
+    border-radius: 5px;
+        
+}
+.scoreboard{
+    flex-grow: 1;
+   flex-basis: 0;
+    background-color: deeppink;
+    width: 50%;
+}
+
+.tmp{
+    flex-grow: 1;
+   flex-basis: 0;
+   background-color: deeppink;
+   width: 50%;
+
+}
+#layer1{
+    background: transparent;
+}
+
+.wrapper{
+    
+  
+    justify-content: center;
+    display: flex;
+    
+    }
